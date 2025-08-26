@@ -1,4 +1,4 @@
-Hi, I’m Erish 👋
+Hi, I’m Brylle 👋
 
 I’m a Data Engineer & Developer with experience in SQL, Python, Power BI, and cloud data platforms like Snowflake, AWS, and Matillion. I enjoy building data pipelines, dashboards, and automation solutions that turn raw data into clear insights and support better decision-making.
 
