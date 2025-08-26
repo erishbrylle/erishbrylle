@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I’m Erish 👋
 
-<!--
-**erishbrylle/erishbrylle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Engineer & Developer with experience in SQL, Python, Power BI, and cloud data platforms like Snowflake, AWS, and Matillion. I enjoy building data pipelines, dashboards, and automation solutions that turn raw data into clear insights and support better decision-making.
 
-Here are some ideas to get you started:
+🔹 Current role: Global Data Warehousing Analyst at NCH Corporation
+🔹 Background: Experience spans data analytics, ETL, and reporting solutions across business operations and e-commerce
+🔹 Tech stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python (Pandas, NumPy), SQL
+
+Data Platforms: Snowflake, Redshift
+
+BI & Visualization: Power BI, Tableau
+
+Cloud: AWS, GCP
+
+Tools: Matillion, Git, Excel
+
+💡 On GitHub, I share projects that showcase my skills in data cleaning, SQL optimization, ETL pipelines, and dashboarding. I’m also passionate about applying analytics to real-world problems, from business trends to personal interests like NBA stats and e-commerce analysis.
+
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/erishb/)|[Email(erishbrylle@gmail.com)]
