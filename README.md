@@ -18,6 +18,6 @@ Cloud: AWS, GCP
 
 Tools: Matillion, Git, Excel
 
-💡 On GitHub, I share projects that showcase my skills in data cleaning, SQL optimization, ETL pipelines, and dashboarding. I’m also passionate about applying analytics to real-world problems, from business trends to personal interests like NBA stats and e-commerce analysis.
+💡 On GitHub, I share projects that showcase my skills in data cleaning, SQL optimization, ETL pipelines, and dashboarding. I’m also passionate about applying analytics to real-world problems, from business trends to personal interests like Pokemon stats and e-commerce analysis.
 
 📫 Let’s connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erishb/) [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:erishbrylle@gmail.com)
