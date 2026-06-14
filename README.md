@@ -2,7 +2,7 @@ Hi, I’m Brylle 👋
 
 I’m a Data Engineer & Developer with experience in SQL, Python, Power BI, and cloud data platforms like Snowflake, AWS, and Matillion. I enjoy building data pipelines, dashboards, and automation solutions that turn raw data into clear insights and support better decision-making.
 
-🔹 Current role: Global Data Warehousing Analyst at NCH Corporation
+🔹 Current role: Data Engineer @ Ever.Ag
 
 🔹 Background: Experience spans data analytics, ETL, and reporting solutions across business operations and e-commerce
 
